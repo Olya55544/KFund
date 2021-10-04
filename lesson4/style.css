@@ -1,0 +1,16 @@
+.tex{
+    text-align: center;
+}
+.color{
+    color: aquamarine;
+}
+th,td{
+    border: aquamarine;
+}
+.table{
+    height: 100px;
+    width: 200vh;
+}
+th{
+    box-shadow: 0px 0px 48px 19px rgba(red, green, blue, alpha);
+}
