@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(209, 166, 250);
+}
+.container{
+    height: 650px;
+    width: 500px;
+    background-color: rgb(237, 255, 154);
+}
+.title{
+    text-align: center;
+    color: snow;
+}
+.header_inner{
+    background-color: slateblue;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title2{
+    text-align: center;
+    color: snow;
+}
+.footer_inner{
+    background-color: violet;
+    height: 15vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div{
+    background-color: rgb(219, 255, 119);
+    width: 100px;
+    height: 100px;
+}
+.div2{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
