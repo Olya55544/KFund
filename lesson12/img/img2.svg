@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 110.28 130">
+    <defs>
+        <clipPath id="hexagonal-mask">
+            <polygon id="hex" class="path" stroke-width="10" stroke-miterlimit="10" points="55.537,124.59 5.795,96.562 5.795,34.504 55.537,6.475 104.28,34.504 104.28,96.562 "/>
+        </clipPath>
+    </defs>
+    <use xlink:href="#hex" fill="none" stroke="#00a7ba"/>
+</svg>

@@ -1,0 +1,39 @@
+.p{
+    font-size: 30px;
+}
+.arrow{
+    font-size: 25px;
+}
+.arrow::after{
+    content: ">";
+    display: inline-block;
+}
+.arrow:hover::after{
+margin-left: 20px;
+}
+.P1{
+    font-size: 30px;
+}
+.arrow2{
+font-size: 25px;
+}
+.arrow2::after{
+    content: "";
+    background: url("/img/img1.svg");
+    font-size: 25px;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
+.arrow2::before{
+    background: url("/img/img2.svg");
+    content:"";
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+}
+.p1{
+    font-size: 25px;
+}
