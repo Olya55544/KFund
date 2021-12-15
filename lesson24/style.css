@@ -1,6 +1,8 @@
-.header{
-    height: 100vh;
+*{
+    margin: 0;
+    padding: 0%;
 }
+
 
 
 
@@ -116,10 +118,12 @@ align-items: center;
 }
 
 
+
 .element2:hover{
     color: rgb(0, 0, 0);
 
 }
+
 
 
 .img{
@@ -135,6 +139,76 @@ align-items: center;
 
 
 .img_bigger{
-    background-image: url("img/Mask\ Group.png");
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.1) 14.37%, rgba(0, 0, 0, 0.8) 100%), url("img/Mask\ Group.png");
     height: 100%;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+.img_out{
+    margin-left: 150px;
+}
+
+
+.button_wrapper{
+    padding-top: 110px;
+}
+
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(255, 255, 255);
+    color: #ffffff;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    height: 40px;
+    font-size: 24px;
+}
+
+
+.h1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-top: 5px;
+}
+
+
+.button2{
+    background-color: rgba(255, 255, 255, 0.25);
+    padding: 18px 85px;
+    color: rgb(255, 255, 255);
+}
+
+
+.button2_wrapper{
+    padding-top: 40px; 
+}
+
+
+.middle{
+    height: 250px;
+    background-color: #F8F8F8;
+}
+
+
+
+.container_middle{
+margin-left: 150px;
+}
+
+
+
+.text_middle{
+    padding-top: 30px;
+}
+
+
+.text_middle_2{
+    margin-top: 20px;
+    color: rgb(117, 117, 117);
+
 }
