@@ -1,0 +1,32 @@
+.Sprint1{
+    margin-top: 30px;
+    margin-bottom: -30px;
+}
+body{
+    background-color: rgb(220, 247, 238);
+}
+.button{
+display: flex;
+justify-content: center;
+}
+.btn{
+font-size: 15px;
+background-color: rgb(134, 218, 218);
+border: none;
+border-radius: 50px;
+}
+.btn:hover{
+background-color: rgb(107, 189, 189);
+-webkit-box-shadow: -1px 0px 8px 4px rgba(34, 60, 80, 0.17);
+-moz-box-shadow: -1px 0px 8px 4px rgba(34, 60, 80, 0.17);
+box-shadow: -1px 0px 8px 4px rgba(34, 60, 80, 0.17);
+}
+.card{
+margin-top: 50px;
+width: 250px;
+height: 250px;
+}
+.text_center{
+font-size: 15px;
+text-align: center;
+}

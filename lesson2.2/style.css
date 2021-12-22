@@ -1,0 +1,16 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(161, 241, 255);
+}
+.logo{
+    width: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.red{
+    font-size: 17px;
+    color: rgb(31, 153, 153);
+}
+.ul{
+    color: blueviolet;
+}

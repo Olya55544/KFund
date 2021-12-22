@@ -1,0 +1,18 @@
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.title{
+    text-align: center;
+    color: snow;
+}
+.header_inner{
+    background-color: slateblue;
+}
+.title2{
+    text-align: center;
+    color: snow;
+}
+.footer_inner{
+    background-color: violet;
+}
