@@ -1,0 +1,13 @@
+.card{
+    margin-top: 10px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}
+.exit{
+    margin-left: 10px;
+    text-align: center;
+    height: 20px;
+    width: 20px;
+    border-radius:50px;
+    background-color: red;
+}
